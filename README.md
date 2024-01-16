@@ -16,10 +16,12 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
->첫 번째 팀 프로젝트
->개발 기간: 2023.12.22 ~ 2024.01.12 
->  
->기술 스택:  
+>첫 번째 프로젝트 (팀 프로젝트)
+>
+>개발 기간: 2023.12.22 ~ 2024.01.12
+>
+>기술 스택:
+>
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
