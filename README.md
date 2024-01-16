@@ -8,7 +8,7 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: zebra0345@naver.com
 - 블로그: 
 - 깃헙: https://github.com/zebra0345
 
@@ -16,8 +16,8 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>첫 번째 팀 프로젝트
+>개발 기간: 2023.12.22 ~ 2024.01.12 
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
