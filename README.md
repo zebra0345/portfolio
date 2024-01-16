@@ -3,9 +3,11 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra0345)](https://github.com/anuraghazra/github-readme-stats)
+![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 </br>
 
 ## :pushpin: Contact
