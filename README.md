@@ -5,6 +5,7 @@
 ## :pushpin: Intro
 (여기에 자기 소개)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra0345)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 
 ## :pushpin: Contact
