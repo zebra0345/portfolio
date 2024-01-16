@@ -22,8 +22,8 @@
 >
 >기술 스택:
 >
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 11 / Spring Boot / Gradle / JS / Lombok Flask  
+>MyBatis / MySQL / Spring Security / Jsoup / Aduino
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
 
