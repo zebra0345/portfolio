@@ -25,7 +25,7 @@
 >Java 11 / Spring Boot / Gradle / JS / Lombok Flask  
 >MyBatis / MySQL / Spring Security / Jsoup / Aduino
 >  
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS/blob/6da47c6976bf0eb58eed70859b6c6473df9c7db3/README.md) 참고
 
 ---
 
