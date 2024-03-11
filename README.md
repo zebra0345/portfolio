@@ -58,8 +58,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명] 참고
-
+>[프로젝트 상세 설명] (https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
 ---
 
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
