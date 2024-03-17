@@ -60,6 +60,13 @@
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명] (https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+>
+>![image](https://github.com/zebra0345/portfolio/assets/116381280/df3f7ccb-adc8-4f41-9a3e-7be49fa55f9a)
+> 담당 기능:
+> * DB설계
+> * 데이터수집
+> * 알고리즘 함수화
+> * API연동
 > <h3>트러블 슈팅</h3>
 >
 > <p>과대적합문제 해결</p>
