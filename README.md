@@ -60,6 +60,12 @@
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명] (https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+> <h3>트러블 슈팅</h3>
+>
+> <p>과대적합문제 해결</p>
+> 1. 모델 과대적합문제 해결
+> 2. X인자를 상관계수 기반으로 과대적합 해결
+> 3. 이벤트성 질환을 제외하고 과대적합 문제 해결(정확도 0.85이상).
 ---
 
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
