@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=wojin's%20intro)
 
 # 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+>도전적이고 창의적인 개발자
 </br>
 
 ## :pushpin: Intro
