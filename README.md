@@ -14,7 +14,6 @@
 
 ## :pushpin: Contact
 - 이메일: zebra0345@naver.com
-- 블로그: 
 - 깃헙: https://github.com/zebra0345
 
 </br>
