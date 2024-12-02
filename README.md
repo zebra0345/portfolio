@@ -95,5 +95,8 @@
 >기술 스택:  
 > python/django/vue/JS
 >
->  
+>  ![image](https://github.com/user-attachments/assets/801ea1ef-64cd-48b7-9d7c-8ebc2cddfade)
+> 챗봇/vue와 django를 통한 웹사이트 개발
+> 백엔드 회원가입, 게시판, 댓글, 좋아요 CRUD 전체 구현
+
 >[프로젝트 상세 설명](https://github.com/zebra0345/finSetProject)
