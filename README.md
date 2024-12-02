@@ -85,3 +85,15 @@
 >
 >  
 >[프로젝트 상세 설명](https://github.com/zebra0345/movie.git)
+>
+---
+
+### 4. [네 번째 프로젝트](https://github.com/zebra0345/finSetProject)
+>금융상품 추천 웹 어플리케이션
+>개발 기간: 2024-11-18 ~ 2024-11-28
+>  
+>기술 스택:  
+> python/django/vue/JS
+>
+>  
+>[프로젝트 상세 설명](https://github.com/zebra0345/finSetProject)
