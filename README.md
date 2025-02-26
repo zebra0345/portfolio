@@ -1,20 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=wojin's%20intro)
 
 # 포트폴리오
->도전적이고 창의적인 개발자
+>항상 새로운 것을 추구하는 넓고 얕은 기본 지식을 보유한 개발자
+>얕은 지식을 기반으로 심화를 추구하는 사람
 </br>
 
-## :pushpin: Intro
+## :pushpin: 기술스택
 
-![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white)
 </br>
 
 ## :pushpin: Contact
 - 이메일: zebra0345@naver.com
 - 깃헙: https://github.com/zebra0345
+
+</br>
+
+## :pushpin: 경력사항
+- 2023.10 ~ 2024.03 : 스마트그리드기반 IoT 융합 SW전문가 과정
+- 2024.06 ~ 2024.07 : 이글이비전 재직(프로)
+- 2024.07 ~ 현재 : SSAFY(삼성청년소프트웨어아카데미)
 
 </br>
 
@@ -97,6 +112,8 @@
 >
 >  ![image](https://github.com/user-attachments/assets/801ea1ef-64cd-48b7-9d7c-8ebc2cddfade)
 > 챗봇/vue와 django를 통한 웹사이트 개발
-> 백엔드 회원가입, 게시판, 댓글, 좋아요 CRUD 전체 구현
+> 백엔드 회원가입, 게시판, 댓글, 좋아요 CRUD 등 백엔드 구조 전체 로직 구현
 
 >[프로젝트 상세 설명](https://github.com/zebra0345/finSetProject)
+
+### 5. 
