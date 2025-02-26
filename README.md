@@ -125,7 +125,7 @@
 **프로젝트 설명**: 
 코사인 유사도를 활용한 텍스트 유사도 기반 영화 추천 알고리즘을 개발하였습니다.
 
-**프로젝트 링크**: [https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+**프로젝트 링크**: [https://github.com/zebra0345/movie.git](https://github.com/zebra0345/movie.git)
 
 
 ---
