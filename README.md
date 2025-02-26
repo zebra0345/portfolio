@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=wojin's%20intro)
 
 # 포트폴리오
->항상 새로운 것을 추구하는 넓고 얕은 기본 지식을 보유한 개발자
+>항상 새로운 것을 추구하는 넓고 얕은 기본 지식을 보유한 개발자  
 >얕은 지식을 기반으로 심화를 추구하는 사람
 </br>
 
