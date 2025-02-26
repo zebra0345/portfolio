@@ -46,49 +46,71 @@
 
 ### 1. [SolarBEMS](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
 
-**개발 기간**: 2023.12.18 ~ 2024.01.12
+**개발 기간**: 2023년 12월 18일 ~ 2024년 1월 12일
 
-**기술 스택**: Java 11, Spring Boot, Gradle, JavaScript, Lombok, Flask, MyBatis, MySQL, Arduino
+**기술 스택**:
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+- ![Lombok](https://img.shields.io/badge/Lombok-9C1A22?style=for-the-badge&logo=lombok&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**프로젝트 설명**: 첫 번째 팀 프로젝트로, SolarBEMS 시스템을 개발하였습니다. [프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS/blob/6da47c6976bf0eb58eed70859b6c6473df9c7db3/README.md)
+**프로젝트 설명**:
+첫 번째 팀 프로젝트로, SolarBEMS 시스템을 개발하였습니다. 이 시스템은 태양광 발전 모니터링 및 관리 기능을 제공하여 효율적인 에너지 관리를 도와줍니다.
 
-**담당 기능**:
-
+**담당 역할**:
 - 데이터베이스 생성 및 관계 설정
-- 회원가입, 로그인, 회원정보 수정 관련 코드 작성
+- 회원가입, 로그인, 회원정보 수정 기능 구현
 - DTO 구현 및 사용자 정보 관리
 - 장치 연동 관련 코드 작성
 
 **트러블 슈팅**:
-
 - **깃허브 오류**:
   1. 초기 네트워크 오류로 레포지토리를 찾지 못함 → 경로 오류 확인 및 수정
   2. 커밋 과정에서 토큰 문제 발생 → 토큰 권한 설정 및 재발급으로 해결
   3. 쓰기 권한 오류로 인해 푸시 불가 → 시간 관계상 한 컴퓨터에서 공동 작업 진행
 
+**프로젝트 링크**: [https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS](https://github.com/2023-SMHRD-KDT-IOT-4/SolarBEMS)
+
 ---
 
 ### 2. [생애주기 건강기능식품 추천 시스템](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
 
-**개발 기간**: 2024.02.19 ~ 2024.03.14
+**개발 기간**: 2024년 2월 19일 ~ 2024년 3월 14일
 
-**기술 스택**: Java 8, Spring Boot, Gradle, Spring Data JPA, QueryDSL, H2, MySQL, Spring Security, Jsoup, Vue.js, Element UI
+**기술 스택**:
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+- ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- ![QueryDSL](https://img.shields.io/badge/QueryDSL-000000?style=for-the-badge&logo=querydsl&logoColor=white)
+- ![H2](https://img.shields.io/badge/H2-0072C6?style=for-the-badge&logo=h2&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+- ![Jsoup](https://img.shields.io/badge/Jsoup-000000?style=for-the-badge&logo=jsoup&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+- ![Element UI](https://img.shields.io/badge/Element%20UI-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
-**프로젝트 설명**: 머신러닝을 활용하여 생애주기에 맞는 건강기능식품을 추천하는 시스템을 개발하였습니다. [프로젝트 상세 설명](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
+**프로젝트 설명**:
+머신러닝을 활용하여 사용자의 생애주기에 맞는 건강기능식품을 추천하는 시스템을 개발하였습니다. 이 시스템은 사용자 데이터 분석을 통해 개인화된 제품 추천을 제공합니다.
 
-**담당 기능**:
-
-- DB 설계
-- 데이터 수집
-- 알고리즘 함수화
+**담당 역할**:
+- 데이터베이스 설계
+- 데이터 수집 및 전처리
+- 추천 알고리즘 구현
 - API 연동
 
 **트러블 슈팅**:
-
 - **과대적합 문제 해결**:
   1. 모델의 과대적합 문제 발견
-  2. 상관계수를 기반으로 X 인자 조정
-  3. 이벤트성 질환 제외 후 과대적합 문제 해결 (정확도 0.85 이상 달성)
+  2. 상관계수를 기반으로 입력 변수 조정
+  3. 이벤트성 질환 제외 후 과대적합 문제 해결 (정확도 85% 이상 달성)
+
+**프로젝트 링크**: [https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo](https://github.com/2023-SMHRD-KDT-IOT-4/yeahaRepo)
 
 ---
 
@@ -96,10 +118,13 @@
 
 **개발 기간**: 2024.04.19 ~ 2024.04.29
 
-**기술 스택**: Python, Jupyter, Colab
+**기술 스택**: 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JupyterHub](https://img.shields.io/badge/JupyterHub-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**프로젝트 설명**: 코사인 유사도를 활용한 텍스트 유사도 기반 영화 추천 알고리즘을 개발하였습니다. [프로젝트 상세 설명](https://github.com/zebra0345/movie.git)
+**프로젝트 설명**: 코사인 유사도를 활용한 텍스트 유사도 기반 영화 추천 알고리즘을 개발하였습니다.
 
+**프로젝트 링크**: [프로젝트 상세 설명](https://github.com/zebra0345/movie.git)
 ---
 
 ### 4. [금융상품 추천 웹 어플리케이션](https://github.com/zebra0345/finSetProject)
@@ -122,6 +147,5 @@
 
 **트러블 슈팅**:
 - **데이터베이스 성능 최적화**: 대량의 금융상품 데이터를 효율적으로 처리하기 위해 인덱싱 및 쿼리 최적화를 수행하였습니다.
-- **사용자 인증 문제 해결**: OAuth 2.0을 도입하여 소셜 로그인 기능을 구현하고, 보안 강화를 위해 JWT를 활용한 토큰 기반 인증 시스템을 구축하였습니다.
 
 **프로젝트 링크**: [https://github.com/zebra0345/finSetProject](https://github.com/zebra0345/finSetProject)
